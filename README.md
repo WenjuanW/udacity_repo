@@ -8,5 +8,6 @@ This is a repository to practice git version control for Udacity MLOps course.
 * git push
 * git pull
 * git checkout -b
-* git checkout -d
+* git branch -d
+* git branch
 
